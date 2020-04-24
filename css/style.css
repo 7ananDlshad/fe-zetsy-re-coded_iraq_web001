@@ -43,6 +43,6 @@ img{
 .ccolor img:hover{
  border:5px rgb(111,127,122) solid;
 }
-.ccolor{
+.bcolor{
  border: 5px solid #ccc; 
 }
